@@ -1,0 +1,8 @@
+{
+  "id": "border_simple",
+  "name": "Simple Gold Border",
+  "height": 120,
+  "stretch_mode": "repeat",
+  "preview_image": "border_simple.png",
+  "status": "active"
+}
