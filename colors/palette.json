@@ -1,0 +1,14 @@
+{
+  "body_colors": [
+    { "id": "maroon", "name": "Maroon", "hex": "#800000" },
+    { "id": "green", "name": "Deep Green", "hex": "#0B3B2E" }
+  ],
+
+  "border_colors": [
+    { "id": "gold", "name": "Zari Gold", "hex": "#D4AF37" }
+  ],
+
+  "pallu_colors": [
+    { "id": "royal_blue", "name": "Royal Blue", "hex": "#1A237E" }
+  ]
+}
