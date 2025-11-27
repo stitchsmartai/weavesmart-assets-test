@@ -1,0 +1,35 @@
+{
+  "template_id": "template_0001",
+  "template_name": "Basic Kanchi Template",
+
+  "base_saree": "base_kanchi_6yard",
+
+  "colors": {
+    "body": "maroon",
+    "border": "gold",
+    "pallu": "royal_blue"
+  },
+
+  "motifs": [
+    {
+      "motif_id": "motif_0001",
+      "region": "body",
+      "position": { "x": 900, "y": 200 },
+      "scale": 1.0,
+      "repeat": {
+        "enabled": true,
+        "type": "grid",
+        "spacing_x": 120,
+        "spacing_y": 140
+      }
+    }
+  ],
+
+  "borders": [
+    { "border_id": "border_simple", "top": true, "bottom": true }
+  ],
+
+  "pallu": {
+    "pallu_id": null
+  }
+}
