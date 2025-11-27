@@ -1,0 +1,8 @@
+{
+  "id": "border_double",
+  "name": "Double Gold-Copper Border",
+  "height": 140,
+  "stretch_mode": "repeat",
+  "preview_image": "border_double.png",
+  "status": "active"
+}
