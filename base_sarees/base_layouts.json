@@ -1,0 +1,16 @@
+[
+  {
+    "id": "base_kanchi_6yard",
+    "name": "Kanchipuram Silk 6 Yard",
+    "canvas_size": { "width": 3000, "height": 500 },
+
+    "regions": {
+      "body": { "x": 400, "y": 0, "width": 2000, "height": 500 },
+      "pallu": { "x": 2400, "y": 0, "width": 600, "height": 500 },
+      "border_top": { "x": 400, "y": 0, "width": 2000, "height": 40 },
+      "border_bottom": { "x": 400, "y": 460, "width": 2000, "height": 40 }
+    },
+
+    "enabled": true
+  }
+]
