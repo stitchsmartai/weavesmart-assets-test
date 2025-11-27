@@ -1,0 +1,18 @@
+{
+  "id": "motif_0001",
+  "name": "Kanchi Body Motif 1",
+  "category": "body",
+  "default_scale": 1.0,
+  "min_scale": 0.3,
+  "max_scale": 3.0,
+  "supports_repeat": true,
+  "repeat_type": "grid",
+  "repeat_default_spacing": {
+    "x": 60,
+    "y": 60
+  },
+  "preview_image_small": "motif_0001_256.png",
+  "preview_image_large": "motif_0001_1024.png",
+  "source_file": "motif_0001.svg",
+  "status": "active"
+}
