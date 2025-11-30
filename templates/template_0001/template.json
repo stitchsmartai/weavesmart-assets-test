@@ -1,0 +1,33 @@
+{
+  "id": "template_0001",
+  "name": "Classic Kanchi Template 1",
+  "description": "Basic saree layout with body motif, simple border, and default spacing.",
+  "base_layout": "base_layout_01",
+  "sections": {
+    "body": {
+      "enabled": true,
+      "motif_id": "motif_0001",
+      "scale": 1,
+      "repeat": true,
+      "repeat_type": "grid",
+      "spacing": {
+        "x": 60,
+        "y": 60
+      }
+    },
+    "top_border": {
+      "enabled": true,
+      "border_id": "border_simple",
+      "scale": 1
+    },
+    "bottom_border": {
+      "enabled": true,
+      "border_id": "border_simple",
+      "scale": 1
+    },
+    "pallu": {
+      "enabled": false
+    }
+  },
+  "preview_image": "preview.png"
+}
